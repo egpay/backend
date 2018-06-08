@@ -1,0 +1,8 @@
+.idea/
+.idea/workspace.xml
+.env
+logo.png
+worker.log
+vendor/
+logo.png
+tmp/

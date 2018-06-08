@@ -1,0 +1,64 @@
+/*================================================================================
+	Item Name: Stack - Responsive Admin Theme
+	Version: 1.0
+	Author: PIXINVENT
+	Author URL: http://www.themeforest.net/user/pixinvent
+================================================================================
+
+NOTE:
+------
+PLACE HERE YOUR OWN SCSS CODES AND IF NEEDED, OVERRIDE THE STYLES FROM THE OTHER STYLESHEETS.
+WE WILL RELEASE FUTURE UPDATES SO IN ORDER TO NOT OVERWRITE YOUR STYLES IT'S BETTER LIKE THIS.  */
+
+.card-block {
+    padding: 1.2rem !important;
+}
+
+.linkWrap{
+    display: block;
+    margin-left: 2px;
+    max-width: 126px;
+    overflow: hidden;
+    padding-left: 0;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.tr-danger{
+    background-color: red !important;
+    color: #ffffff;
+}
+
+
+.ar {
+    text-align: right;
+    direction: rtl;
+}
+
+.indent {
+    text-indent: 20px;
+}
+
+.col-center{
+    float: none;
+    margin: 0 auto;
+}
+
+table thead, table tfoot {
+    font-weight: bold;
+}
+
+.list-group-item.active a {
+    color: #ffffff;
+}
+
+ul.noneli li{
+    list-style-type: none;
+}
+
+#messageBox {
+    text-align: center;
+}
+input.error {
+    box-shadow: 0 0 3px #CC0000; margin: 10px;
+}
